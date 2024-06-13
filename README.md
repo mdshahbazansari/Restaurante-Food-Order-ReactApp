@@ -11,6 +11,8 @@
 
 #### Follow On Instagram If Any help ![alt text](image.png): https://www.instagram.com/mr.attitude_sz/
 
+##### Site Preview Link : https://zaikafood.netlify.app/
+
 - Responsive react App.
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
